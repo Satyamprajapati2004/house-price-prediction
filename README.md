@@ -8,7 +8,7 @@ The model is deployed using **Streamlit** for an interactive user experience.
 ---
 
 ## 🚀 Live Demo
-👉 (Add your Streamlit link here after deployment)
+👉 (https://house-price-prediction-mu9nrgzzoyqqwkuy6nixfc.streamlit.app/)
 
 ---
 
